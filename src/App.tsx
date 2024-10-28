@@ -118,15 +118,13 @@ function App() {
             </div>
             <div>
               <h3 className="text-white font-bold mb-4">Contact</h3>
-              <p className="text-sm">Email: support@covergenius.ai</p>
-              <p className="text-sm">Phone: (555) 123-4567</p>
+              <p className="text-sm">Email: covergeniuss@gmail.com</p>
+              <p className="text-sm">Contact for any feedback or question</p>
             </div>
             <div>
-              <h3 className="text-white font-bold mb-4">Legal</h3>
+              <h3 className="text-white font-bold mb-4">Product</h3>
               <ul className="space-y-2 text-sm">
-                <li>Privacy Policy</li>
-                <li>Terms of Service</li>
-                <li>Cookie Policy</li>
+                <li>Made by solo guy</li>
               </ul>
             </div>
             <div>
